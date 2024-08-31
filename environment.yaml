@@ -1,0 +1,10 @@
+name: prayer-alerts
+dependencies:
+  - python=3.11
+  - beautifulsoup4
+  - requests
+  - pip
+  - pip: 
+    - aladhan-api
+    - schedule
+    - playsound==1.2.2
