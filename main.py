@@ -49,7 +49,7 @@ def play_adhans():
         time.sleep(60)  # Check the time every minute
 
 # Schedule the first script
-scheduled_time = "04:01"  # Set this to your specific time, e.g., 12:05 AM
+scheduled_time = "00:05"  # Set this to your specific time, e.g., 12:05 AM
 schedule.every().day.at(scheduled_time).do(get_prayer_times_today)
 
 while True:
