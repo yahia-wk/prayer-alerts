@@ -18,7 +18,7 @@ conda activate prayer-alerts
 ## Usage ⏯️
 ### Customization 🛠️
 #### Location 🗺️
-You should the `location` variable appropriately to your desired location
+You should set the `location` variable appropriately to your desired location
 #### Scheduled Time ⏲️
 Change at which time of the day you would like the new adhans for the day to be fetched in the `scheduled_time` variable.
 NOTE: `scheduled_time` should always be in 24-hour format (e.g. 19:07 and not 7:07 PM) 
