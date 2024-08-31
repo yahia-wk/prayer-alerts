@@ -1,7 +1,7 @@
 # Prayer Alerts 📢
 This is a program to be run in the background in your home lab stations to play adhan for prayers automatically.
 
-This would work nicely with a Raspberry Pi connected to a central house speaker so adhans are broadcast across a home.
+This would work nicely with a Raspberry Pi connected to a central house speaker so adhans are broadcast across a home when it is time for prayer.
 
 ## Setting Up ⬇️
 To get all the dependencies for the program, install all libraries needed using the environment.yaml file inside a Conda environment
